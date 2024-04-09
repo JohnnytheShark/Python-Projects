@@ -8,12 +8,13 @@
 # pandas
 1. Pandas Format Values into dollar values. [Pandas Formatter](https://github.com/JohnnytheShark/Python-Projects/blob/master/FormattingColumns.py)
 
-#Class Components
+# Class Components
 1. XML Parsing. Retreives data from URL and parses it into a dictionary [XML Parser](https://github.com/JohnnytheShark/Python-Projects/blob/master/XMLParsing.py)
+2. SAP Connector. Needed a way to connect to SAP and then start running through automation commands to retreive data. [SAP](https://github.com/JohnnytheShark/Python-Projects/blob/master/SAP/SAPConnection.py)
 
-#Tkinter
+# Tkinter
 1. Simple Tkinter starter. This was used to build a larger desktop application that Corporate Accounting at Norfolk Southern used to parse data. [XNET Retreival](https://github.com/JohnnytheShark/Python-Projects/blob/master/XMLParsing.py)
 
-#Practice Projects
+# Practice Projects
 1. CSV Project. Part of course I took where we would read in data and export it into a csv. [CSV Project](https://github.com/JohnnytheShark/Python-Projects/blob/master/CSV%20Project/CSVProject.py)
 2. Magic 8 Ball. Create a Magic 8 Ball Game using OOP. [Magic 8 Ball](https://github.com/JohnnytheShark/Python-Projects/tree/master/Magic%208%20Ball%20Project)
